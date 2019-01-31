@@ -1,0 +1,1 @@
+[Thu Jan 31 21:58:06.279411 2019] [core:error] [pid 3091:tid 1777333296] (13)Permission denied: [client 192.168.0.15:58856] AH00035: access to /icons/ball.red.png denied (filesystem path '/usr/share/apache2/icons/ball.red.png') because search permissions are missing on a component of the path, referer: http://domaine1.raspi.lan/
