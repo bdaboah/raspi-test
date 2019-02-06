@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Hello,
+# une idée pour ca ne match pas ?
+#
+# testé sur https://regex101.com/ (PCRE) : l'expression est validée
+
+
+pat='^[0-9]+(?:[.][0-9]+)?$'
+pat='^(\d+\.)?\d+$'
+
+echo $pat
+if [[ 22 =~ ^\d+(?:[.]?)\d*$ ]]; then
+  echo "ca match"
+  else
+    echo "ca match pas "
+fi

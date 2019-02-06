@@ -1,0 +1,5 @@
+192.168.0.15 - - [02/Feb/2019:15:02:37 +0100] "GET / HTTP/1.1" 200 307 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+192.168.0.15 - - [02/Feb/2019:15:05:03 +0100] "GET / HTTP/1.1" 304 182 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+192.168.0.15 - - [02/Feb/2019:15:05:05 +0100] "GET / HTTP/1.1" 304 181 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+192.168.0.15 - - [02/Feb/2019:15:05:15 +0100] "GET / HTTP/1.1" 200 307 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+192.168.0.15 - - [02/Feb/2019:15:05:15 +0100] "GET /favicon.ico HTTP/1.1" 404 516 "http://temperature.raspi.lan/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
